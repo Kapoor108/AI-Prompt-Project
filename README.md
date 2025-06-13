@@ -2,6 +2,15 @@
 
 A powerful Streamlit app for generating professional product ads using Bria AI's advanced image generation and manipulation APIs.
 
+## 🖼️ App UI Preview
+
+<p align="center">
+  <img src="UI1.jpg" width="600"/><br/>
+  <img src="UI2.jpg" width="600"/><br/>
+  <img src="UI3.jpg" width="600"/>
+</p>
+
+
 ## 🌟 Features
 
 - 🖼️ Generate HD product images from text prompts
