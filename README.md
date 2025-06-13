@@ -9,8 +9,7 @@ A powerful Streamlit app for generating professional product ads using Bria AI's
   <img src="UI2.jpg" width="600"/><br/>
    <img src="UI02.jpg" width="600"/><br/>
    <img src="UI3.jpg" width="600"/><br/>
-   <img src="UI4.jpg" width="600"/><br/>
-  <img src="UI4.jpg" width="600"/>
+  <img src="UI04.jpg" width="600"/>
 </p>
 
 
